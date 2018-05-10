@@ -1,2 +1,2 @@
-This is a communication protocol based on the interaction between the BLE4.0 and the C language, which is used for app to operate on the car's vehicle system.
+这是一种基于BLU4.0和C语言之间的交互的通信协议，用于APP在汽车的车辆系统上的操作。
 
